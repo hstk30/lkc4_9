@@ -1,6 +1,5 @@
  # lkc4_9
  
- 
  ## my config
  OS: Ubuntu `16.04`
  `bochs` Version: `2.6.9`
