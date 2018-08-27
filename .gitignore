@@ -1,0 +1,6 @@
+*.o
+boot
+system
+System.map
+bochsout.txt
+*.txt
