@@ -7,7 +7,8 @@
  
  
  ## run bochs
- `bochs -f bochsrc.bxrc` to run the bochs.  
+ Step1.`make`
+ Step2.`bochs -f bochsrc.bxrc` to run the bochs.  
  
  
  
